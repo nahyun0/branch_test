@@ -1,36 +1,15 @@
-# shell commands lecture note 
----
-- **pwd** : shows the current path in a hierarchial directory
-- **cd** : change directory
-- **ls** : list files and directories 
--[directory name] / root 
--options :
-   -  **-l** : show detailed information
-   - **-lh**: same as above, but size in units
+# temp-repo
+What is Github ? -Github is a collaboration platform that uses Git for versioning.
 
-   
-#### *Tip*
-- **Autocompletion** : press "tab" key
-- **past commands** : press "up arrow" key
-- **clear**: write the clear 
+What is repository ? -A repository is a project contaning files and folders.
 
-### ***Manipulation***
+created new repository
 
-1.  **cp** : copy files and directories 
-2.  **mv** : move files and directories or rename them
-3.  **rm** : delete files and directories permantely and irreversevley 
-4.  **mkdir** : make a new directory
+After your new repositrory is created, Follow the step-by-step.
+  
+1 .step1 : Created a branch
+What is branch? - A branch is a parallel version of your repository.
 
-#### *help*
-- help , man
-
-#### *extiting terminal*
-- exit
-
-
-
-
-
-
-
-
+2. step2 : Commit a file
+3. step3 : Open a pull request
+4. step4 : Merge your pull request
