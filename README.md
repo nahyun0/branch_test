@@ -7,3 +7,4 @@
 - Generating a personal access token an Github ->
 - Making a new repository ->
 - Git push to remote repository ->
+# practicing git bracnching and marging
